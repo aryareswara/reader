@@ -5,7 +5,7 @@ This project helps you organize your manga/manhwa collection in a structured dir
 ## Directory Structure
 [title]/\
 ├── Chapter [num]/\
-│ ├── page_[num].[ext]\
+│ ├── page_[num].[ext]
 
 ## How to Use
 
@@ -32,7 +32,7 @@ Iam gud person/\
 │ ├── page_02.jpeg\
 ├── Chapter 2/\
 │ ├── page_01.jpeg\
-│ ├── page_02.jpeg\
+│ ├── page_02.jpeg
 
 ## Notes
 
