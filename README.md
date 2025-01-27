@@ -3,9 +3,9 @@
 This project helps you organize your manga/manhwa collection in a structured directory format. It also includes scripts to update the list of titles and start reading.
 
 ## Directory Structure
-[title]/\
+`[title]/\
 ├── Chapter [num]/\
-│ ├── page_[num].[ext]
+│ ├── page_[num].[ext]`
 
 ## How to Use
 
@@ -26,13 +26,13 @@ This project helps you organize your manga/manhwa collection in a structured dir
 - `start_reading.py`: Script to start reading the manga/manhwa.
 
 ## Example
-Iam gud person/\
+`Iam gud person/\
 ├── Chapter 1/\
 │ ├── page_01.jpeg\
 │ ├── page_02.jpeg\
 ├── Chapter 2/\
 │ ├── page_01.jpeg\
-│ ├── page_02.jpeg
+│ ├── page_02.jpeg`
 
 ## Notes
 
